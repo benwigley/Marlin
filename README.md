@@ -2,6 +2,7 @@
 ## Please follow these links to the new ones.
 
 Firmware basics, ![HERE](https://docs.v1engineering.com/electronics/marlin-firmware/).
+
 Our preconfigured firmware for various builds and boards, ![Marlin Builder](https://docs.v1engineering.com/electronics/marlin-releases/).
 
 
