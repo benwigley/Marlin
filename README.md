@@ -6,23 +6,16 @@ Our preconfigured firmware for various builds and boards, ![Marlin Builder](http
 
 
 old
-old
-old 
-old 
-old 
-old 
-old 
 
-old info
 
-# V1 Engineering Preconfigured Marlin
+### Old V1 Engineering Preconfigured Marlin
 
-## Understanding the Versions
+#### Understanding the Versions
 
 These versions of Marlin are all configured for use on V1Engineering machines. They are all based
 off of the **bugfix-2.0.x** branch.
 
-### Flashing - Installing the firmware -
+#### Flashing - Installing the firmware -
 
 V1 Docs flash with ![Arduino](https://docs.v1engineering.com/electronics/marlin-firmware/).
 
