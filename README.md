@@ -1,3 +1,20 @@
+# These are old versions of the V1 Firmware 
+## Please follow these links to the new ones.
+
+Firmware basics, ![HERE](https://docs.v1engineering.com/electronics/marlin-firmware/).
+Our preconfigured firmware for various builds and boards, ![Marlin Builder](https://docs.v1engineering.com/electronics/marlin-releases/).
+
+
+old
+old
+old 
+old 
+old 
+old 
+old 
+
+old info
+
 # V1 Engineering Preconfigured Marlin
 
 ## Understanding the Versions
