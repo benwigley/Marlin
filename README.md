@@ -6,7 +6,7 @@ Firmware basics, [HERE](https://docs.v1engineering.com/electronics/marlin-firmwa
 Our preconfigured firmware for various builds and boards, [Marlin Builder](https://docs.v1engineering.com/electronics/marlin-releases/).
 
 
-old
+## All the info below this line is outdated
 
 
 ### Old V1 Engineering Preconfigured Marlin
